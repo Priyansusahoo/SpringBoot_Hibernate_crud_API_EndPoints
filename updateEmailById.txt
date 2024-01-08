@@ -1,9 +1,0 @@
-(PUT)
-Example:
-http://localhost:9090/myapp/updateEmailById?id=5&email=sddfsadf@gmail.com
-
-Key: id, Value : 5
-Key: email, Value: sddfsadf@gmail.com
-
-Response:
-true
