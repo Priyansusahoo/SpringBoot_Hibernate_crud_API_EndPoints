@@ -48,7 +48,7 @@ Response Body ->
 
 Request Body :
 
-![Alt text](image.png)
+![Alt text](ReadmeImages/image.png)
 
 Response Body ->
 (JSON)
@@ -66,7 +66,7 @@ Response Body ->
 
 Request Body :
 
-![Alt text](image-1.png)
+![Alt text](ReadmeImages/image-1.png)
 
 Response Body ->
 (JSON)
@@ -79,7 +79,7 @@ Response Body ->
 
 Request Body :
 
-![Alt text](image-2.png)
+![Alt text](ReadmeImages/image-2.png)
 
 Response Body ->
 (JSON)
