@@ -1,0 +1,14 @@
+(GET)
+http://localhost:9090/myapp/getById?id=7
+
+Example
+Key : id
+value : 7
+
+Response:
+{
+    "id": 7,
+    "firstName": "Priyansu",
+    "lastName": "Sahoo",
+    "email": "abc@gmail.com"
+}
